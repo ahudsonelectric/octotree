@@ -42,7 +42,7 @@
     "gulp-replace": "^0.5.4",
     "gulp-run": "^1.6.4",
     "gulp-run-sequence": "*",
-    "gulp-uglify-es": "^1.0.4",
+    "gulp-uglify-es": "^2.0.0",
     "gulp-util": "^2.2.20",
     "gulp-zip": "^2.0.3",
     "jpm": "^1.0.4",
